@@ -5,7 +5,7 @@
     border-radius: 50%;
     margin: calc(100vh + 300px) auto;
 }
-/* 
+
 div {
     height: 200px;
     width: 200px;
@@ -21,4 +21,4 @@ div {
 .visible {
     transform: scale(1);
     opacity: 1;
-} */
+}
